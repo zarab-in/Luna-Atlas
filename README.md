@@ -26,8 +26,6 @@ Your challenge is to create an intuitive tool or application that lets mission p
 ### The Solution
 Luna Atlas is an interactive mission‑planning tool that visualizes Sun and Earth positions over lunar terrain, so planners can compare landing sites and dates in seconds instead of hours.
 
-<img width="1920" height="1080" alt="LUNA ATLAS PRE-SCREENING" src="https://github.com/user-attachments/assets/6d92bd48-6071-42f6-bcd4-64a2466ec7a6" />
-
 ### NASA Dataset Integration
 The website directly uses and visualizes NASA’s CLPS Manifest Data, Lunar Reconnaissance Orbiter (LRO) Lunar Digital Elevation Models (DEM), and Apollo/CLPS landing site coordinate datasets.
 
