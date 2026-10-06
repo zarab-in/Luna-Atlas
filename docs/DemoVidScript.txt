@@ -1,0 +1,76 @@
+PRESENTING
+TEAM ZARABIN
+NSAC 2026
+ZAIRA BINTE HOSSAIN
+
+**LUNA ATLAS**
+See the Moon through the eyes of a mission.
+
+What is Luna Atlas?
+Luna Atlas turns complex lunar terrain, illumination, and Earth-visibility data into an interactive mission-planning tool for answering one simple question:
+“Where and when can we operate on the Moon?”
+Complex data is useless if people can’t use it quickly.
+
+Well, Who’s presenting?
+
+Hello, I am Zaira Binte
+Currently an A-Level student at Mastermind School. I’m a design hobbyist, by passion. Been learning design-related stuff since years now, and only recently, I started monetizing my passion.
+
+Check out my portfolio at:
+https://www.artstation.com/zarabin
+Hit me up @zarabin_ on Instagram.
+
+3D Generalist
+Zoducts Team, 2024 - Present
+
+Executive Committee
+Mastermind IT & Robotics Club,
+2026 - Present
+
+3D Visualizer
+NéoEarth Contract, 2026
+
+Graphic Designer
+Freeland Contract, 2026
+
+The Problem & Solution
+Problem: At the lunar south pole, calculating 72-hour solar exposure and Earth-direct communications means juggling fragmented, complex tools while the clock ticks down.
+Solution: We unify line-of-sight, power, and comms analysis into one instant platform—giving mission controllers real-time answers when every second counts.
+
+Why does it matter ?
+Comms Blackouts: From the lunar south pole, Earth is visible only about half of each ~14‑day lunar month, and always low on the horizon.
+Solar Volatility: Some polar areas swing between continuous darkness and sunlight depending on the time of year; so a good landing site can be unusable for weeks or months at a time.
+Tracking Blindspots: Without direct line‑of‑sight to Earth, traditional ground‑station tracking becomes difficult or impossible during surface operations.
+
+Mission success at the south pole depends on two simple questions:
+Where can we land, and when can we operate?
+Luna Atlas is built to answer exactly that.
+
+How does Luna Atlas work?
+Luna Atlas is an interactive mission‑planning tool that visualizes Sun and Earth positions over lunar terrain, so planners can compare landing sites and dates in seconds instead of hours.
+INPUT: Planners pick a candidate landing site and a date range.
+COMPUTE: Uses NASA lunar data to calculate Sun elevation, lighting duration, and Earth visibility above the local horizon.
+OUTPUT: Shows color‑coded timelines and horizon plots: green when power and comms are good, red when they’re not.
+
+Website Architecture
+(Concept)
+Dashboard: Centralized dashboard designed to track past, current, and upcoming CLPS lunar delivery missions.
+Data Visualization: Integrates NASA datasets as foundational schemas for landing site markers.
+Offline Execution: Built for zero-WiFi dependability.
+
+However.
+What makes Luna Atlas special?
+NASA already has the data.
+NASA already has maps.
+NASA already has simulations.
+NASA already has scientific papers.
+So what makes this project exceptional?
+
+Because it connects the data.
+We created a single interface where terrain, sunlight, 
+Earth visibility, time, and mission requirements 
+become one decision.
+
+That’s All.
+Luna Atlas DEMO
+Thank you.
