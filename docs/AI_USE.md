@@ -7,4 +7,10 @@ The current build is strictly an initial **proof-of-concept** and does not refle
 Full functional integration and video production still remain under progress.
 
 
-As part of our commitment to academic integrity, technological transparency, and the official guidelines of the NASA Space Apps Challenge, this statement outlines the exact distribution of human creativity, synthetic code generation, and AI-assisted domain research utilized across the project's development lifecycle.
+As part of my commitment to project integrity, transparency, and the official guidelines of the NASA Space Apps Challenge, this statement outlines the exact use of human creativity, learning cycle, synthetic code generation, and AI-assisted research utilized across the project's development.
+
+
+| Category | Primary Tools | Detailed Scope of Work & Attribution |
+| -------- | ------------- | ------------------------------------ |
+| Research & Domain Knowledge | Data A   | Data B   |
+| Row 2    | Data C   | Data D   |
