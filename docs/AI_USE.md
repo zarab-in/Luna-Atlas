@@ -1,5 +1,6 @@
 # AI Usage Statement
-|---|
+
+
 ### IMPORTANT NOTICE: PROJECT IN PROGRESS
 This document and its deliverables are currently under an early-stage conceptual prototype currently under development by Team Zarabin for the NASA Space Apps Challenge 2026.
 The current build is strictly an initial **proof-of-concept** and does not reflect the final website deployment, data models, or the official 30-second submission video required for global judging. 
