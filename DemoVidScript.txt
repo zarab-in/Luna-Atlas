@@ -1,10 +1,10 @@
-**PRESENTING**
+PRESENTING
 TEAM ZARABIN
 NSAC 2026
 ZAIRA BINTE HOSSAIN
 
 **LUNA ATLAS**
-_See the Moon through the eyes of a mission._
+See the Moon through the eyes of a mission.
 
 What is Luna Atlas?
 Luna Atlas turns complex lunar terrain, illumination, and Earth-visibility data into an interactive mission-planning tool for answering one simple question:
