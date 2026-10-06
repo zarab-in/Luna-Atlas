@@ -8,6 +8,7 @@
 - **Project Name**: Luna Atlas
 - **Team Name**: zarabin
 - **Nasa Space Apps 2026 Challenge**: CLPS Lunar Mission Browser
+- YouTube Pre-screening Demo Video: https://youtu.be/5NPMFB95LHc
 
 ### Summary
 Luna Atlas turns complex lunar terrain, illumination, and Earth-visibility data into an interactive mission-planning tool for answering one deceptively simple question: 
