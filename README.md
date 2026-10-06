@@ -33,6 +33,8 @@ The website directly uses and visualizes NASA’s CLPS Manifest Data, Lunar Reco
 NASA datasets serve as the primary foundation for all landing site markers, payload specs, and surface coordinate renderings rather than secondary surface-level decorations.
 
 ### Deterministic Code
-(I will include the code stack after website is fully made)
+**Frontend** Stack
+- Framework: Vite + React
+- Styling: JavaScript/Tailwind CSS + framer-motion
 
 The LLM by the corner, handles contextual info, user query, data narrative generation, and simplifying complex orbital telemetry into easy-to-follow explanations.
